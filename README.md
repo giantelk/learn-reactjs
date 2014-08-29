@@ -29,8 +29,20 @@ http://jsfiddle.net/ssorallen/fEsYt
 http://moduscreate.com/5-best-mobile-web-app-frameworks-reactjs
 
 
+Official ReactJS Example page:
+http://facebook.github.io/react/docs/examples.html
+
+
 ReactJS demo's & Mobile:
 http://facebook.github.io/react/blog/2013/12/30/community-roundup-13.html
+
+
+Reddit search for ReactJS:
+http://www.reddit.com/search?q=reactjs
+
+
+Hacker News search for ReactJS:
+https://hn.algolia.com/?q=reactjs#!/story/forever/0/reactjs
 
 
  - end - 
