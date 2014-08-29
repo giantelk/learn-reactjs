@@ -1,7 +1,7 @@
 learn-reactjs
 =============
 
-Resources to Learn ReactJS - build web &amp; mobile apps.
+#Resources to Learn ReactJS - build web &amp; mobile apps.
 
 ReactJS is for the front end of web/mobile apps. It can be used to render pages on it's own, or from within other frameworks such as MeteorJS or AngularJS. ReactJS code is JavaScript + HTML/JSX - (look at JSX as just a way to write HTML inside a JavaScript file).
 
