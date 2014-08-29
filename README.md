@@ -17,7 +17,7 @@ http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 https://github.com/rackt/react-router
 
 
-** Stack Overflow Q&A for ReactJS** 
+**Stack Overflow Q&A for ReactJS** 
 Don't be put off by the small # of questions, ReactJS is so easy to learn that you're questions will be mostly about other parts of the app, i.e. JavaScript, CSS, backend stuff:
 http://stackoverflow.com/questions/tagged/reactjs
 
