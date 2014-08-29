@@ -45,4 +45,19 @@ Hacker News search for ReactJS:
 https://hn.algolia.com/?q=reactjs#!/story/forever/0/reactjs
 
 
+React.js tutorial: Learn the basics in 5 minutes:
+http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
+
+
+React js: learn the basics the right way, knowledge after real world project experience:
+http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/
+
+
+Reactive table:
+http://www.phpied.com/reactive-table/
+
+
+Remarkable React:
+http://www.phpied.com/remarkable-react/
+
  - end - 
