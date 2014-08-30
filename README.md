@@ -13,6 +13,10 @@ http://facebook.github.io/react/
 http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 
 
+**Why I chose ReactJS ?**
+http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
+
+
 **Router for ReactJS:**
 https://github.com/rackt/react-router
 
