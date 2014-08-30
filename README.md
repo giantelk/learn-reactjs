@@ -65,4 +65,13 @@ http://www.phpied.com/reactive-table/
 **Remarkable React:**
 http://www.phpied.com/remarkable-react/
 
+
+**There's also lot's of info on ReactJS on Twitter & Google+**
+
+https://twitter.com/ReactJSNews
+
+https://twitter.com/ReactJS
+
+https://plus.google.com/communities/114822536557370957541
+
  - end - 
