@@ -8,22 +8,13 @@ ReactJS is for the front end of web/mobile apps. It can be used to render pages 
 **ReactJS - Official Home Page:**
 http://facebook.github.io/react/
 
-
+### Tutorials & Examples & Blog posts
 **React.js tutorial: Learn the basics in 5 minutes:**
 http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 
 
 **Why I chose ReactJS ?**
 http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
-
-
-**Router for ReactJS:**
-https://github.com/rackt/react-router
-
-
-**Stack Overflow Q&A for ReactJS** 
-Don't be put off by the small # of questions, ReactJS is so easy to learn that you're questions will be mostly about other parts of the app, i.e. JavaScript, CSS, backend stuff:
-http://stackoverflow.com/questions/tagged/reactjs
 
 
 **A simple Reddit Client with React JS - JSFiddle**
@@ -65,7 +56,18 @@ http://www.phpied.com/reactive-table/
 **Remarkable React:**
 http://www.phpied.com/remarkable-react/
 
+### Useful Libraries
+**Router for ReactJS:**
+https://github.com/rackt/react-router
 
+
+### Getting help
+**Stack Overflow Q&A for ReactJS** 
+Don't be put off by the small # of questions, ReactJS is so easy to learn that you're questions will be mostly about other parts of the app, i.e. JavaScript, CSS, backend stuff:
+http://stackoverflow.com/questions/tagged/reactjs
+
+
+### Social Media & ReactJS
 **There's also lot's of info on ReactJS on Twitter & Google+**
 
 https://twitter.com/ReactJSNews
@@ -74,4 +76,8 @@ https://twitter.com/ReactJS
 
 https://plus.google.com/communities/114822536557370957541
 
+
+### JavaScript Primer
+Written for MeteorJS, but this is generic JavaScript so good for any JS project:
+https://www.discovermeteor.com/blog/javascript-for-meteor/
  - end - 
