@@ -35,10 +35,6 @@ http://moduscreate.com/5-best-mobile-web-app-frameworks-reactjs
 http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 
 
-**React.js tutorial: Learn the basics in 5 minutes:**
-http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
-
-
 **React js: learn the basics the right way, knowledge after real world project experience:**
 http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/
 
