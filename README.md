@@ -8,37 +8,31 @@ ReactJS is for the front end of web/mobile apps. It can be used to render pages 
 **ReactJS - Official Home Page:**
 http://facebook.github.io/react/
 
-### Tutorials & Examples & Blog posts
-**React.js tutorial: Learn the basics in 5 minutes:**
-http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
-
-
-**Why I chose ReactJS ?**
-http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
+###Code Examples
+**Official ReactJS Example page:**
+http://facebook.github.io/react/docs/examples.html
 
 
 **A simple Reddit Client with React JS - JSFiddle**
 http://jsfiddle.net/ssorallen/fEsYt
 
 
-**5 Best Mobile Web App Frameworks: React | Modus Create**
-http://moduscreate.com/5-best-mobile-web-app-frameworks-reactjs
-
-
-**Official ReactJS Example page:**
-http://facebook.github.io/react/docs/examples.html
-
-
 **ReactJS demo's & Mobile:**
 http://facebook.github.io/react/blog/2013/12/30/community-roundup-13.html
 
 
-**Reddit search for ReactJS:**
-http://www.reddit.com/search?q=reactjs
+###Blog Posts
+**Why I chose ReactJS ?**
+http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
 
 
-**Hacker News search for ReactJS:**
-https://hn.algolia.com/?q=reactjs#!/story/forever/0/reactjs
+**5 Best Mobile Web App Frameworks: React | Modus Create**
+http://moduscreate.com/5-best-mobile-web-app-frameworks-reactjs
+
+
+###Tutorials
+**React.js tutorial: Learn the basics in 5 minutes:**
+http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 
 
 **React.js tutorial: Learn the basics in 5 minutes:**
@@ -56,9 +50,24 @@ http://www.phpied.com/reactive-table/
 **Remarkable React:**
 http://www.phpied.com/remarkable-react/
 
+
 ### Useful Libraries
 **Router for ReactJS:**
 https://github.com/rackt/react-router
+
+**Reactify**
+Transforms JSX to JavaScript via Node package, for use in build system i.e. with Gulp, Browserify or Wacherify.
+https://www.npmjs.org/package/reactify
+
+
+**Browserify**
+Browser-side require() the node way. Allows you to separate JS files into modules, and use Node NPM packages on the client.
+https://www.npmjs.org/package/browserify
+
+
+**Watchify**
+Watch mode for browserify builds. Automatically runs Browserify when files are changes/saved.
+https://www.npmjs.org/package/watchify
 
 
 ### Getting help
@@ -68,13 +77,19 @@ http://stackoverflow.com/questions/tagged/reactjs
 
 
 ### Social Media & ReactJS
-**There's also lot's of info on ReactJS on Twitter & Google+**
+**There's lot's of info on ReactJS on Twitter & Google+ and other social media sites**
 
 https://twitter.com/ReactJSNews
 
 https://twitter.com/ReactJS
 
 https://plus.google.com/communities/114822536557370957541
+
+**Reddit search for ReactJS:**
+http://www.reddit.com/search?q=reactjs
+
+**Hacker News search for ReactJS:**
+https://hn.algolia.com/?q=reactjs#!/story/forever/0/reactjs
 
 
 ### JavaScript Primer
