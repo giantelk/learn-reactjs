@@ -30,6 +30,14 @@ http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
 http://moduscreate.com/5-best-mobile-web-app-frameworks-reactjs
 
 
+**Why We May Ditch AngularJS For React**
+http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html
+
+
+**Moving Atom To React**
+http://blog.atom.io/2014/07/02/moving-atom-to-react.html
+
+
 ###Tutorials
 **React.js tutorial: Learn the basics in 5 minutes:**
 http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
@@ -37,6 +45,11 @@ http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
 
 **React js: learn the basics the right way, knowledge after real world project experience:**
 http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/
+
+
+**React PhoneCat: Rewriting the AngularJS Tutorial App in React**
+Awesome overview of ReactJS with a great example app.
+http://jgebhardt.github.io/blog/react-phonecat/
 
 
 **Reactive table:**
