@@ -38,6 +38,10 @@ http://wiredcraft.com/posts/2014/08/20/why-we-may-ditch-angularjs-for-react.html
 http://blog.atom.io/2014/07/02/moving-atom-to-react.html
 
 
+**The Secrets of React's Virtual DOM**
+http://fluentconf.com/fluent2014/public/schedule/detail/32395
+
+
 ###Tutorials
 **React.js tutorial: Learn the basics in 5 minutes:**
 http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
