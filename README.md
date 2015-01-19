@@ -111,4 +111,9 @@ https://hn.algolia.com/?q=reactjs#!/story/forever/0/reactjs
 ### JavaScript Primer
 Written for MeteorJS, but this is generic JavaScript so good for any JS project:
 https://www.discovermeteor.com/blog/javascript-for-meteor/
+
+### Way More ReactJS resources
+From videos to Components and more:
+https://github.com/winkler1/awesome-react
+
  - end - 
