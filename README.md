@@ -114,6 +114,6 @@ https://www.discovermeteor.com/blog/javascript-for-meteor/
 
 ### Way More ReactJS resources
 From videos to Components and more:
-https://github.com/winkler1/awesome-react
+https://github.com/enaqx/awesome-react
 
  - end - 
