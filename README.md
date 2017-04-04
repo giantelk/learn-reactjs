@@ -67,6 +67,10 @@ http://www.phpied.com/reactive-table/
 http://www.phpied.com/remarkable-react/
 
 
+**Serverless Stack:** http://serverless-stack.com  
+Step-by-step instructions with screenshots for creating a React.js single page CRUD app hosted on S3 and served out from CloudFront. Over 50 tutorials that take you all the way from creating your AWS account to setting up your app with your own domain.
+
+
 ### Useful Libraries
 **Router for ReactJS:**
 https://github.com/rackt/react-router
