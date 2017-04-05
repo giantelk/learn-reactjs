@@ -50,14 +50,6 @@ http://fluentconf.com/fluent2014/public/schedule/detail/32395
 
 
 ###Tutorials
-**React.js tutorial: Learn the basics in 5 minutes:**
-http://webdesignporto.com/react-js-in-pure-javascript-facebook-library/
-
-
-**React js: learn the basics the right way, knowledge after real world project experience:**
-http://webdesignporto.com/react-js-learn-the-basics-the-right-way-knowledge-after-real-world-project-experience/
-
-
 **React PhoneCat: Rewriting the AngularJS Tutorial App in React**
 Awesome overview of ReactJS with a great example app.
 http://jgebhardt.github.io/blog/react-phonecat/
