@@ -24,6 +24,10 @@ http://facebook.github.io/react/blog/2013/12/30/community-roundup-13.html
 **React Rocks - tons of code samples and demo's:**
 http://react.rocks/
 
+
+**Made with React - Showcase of apps using React or React Native:**
+http://madewithreact.com/
+
 ###Blog Posts
 **Why I chose ReactJS ?**
 http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
