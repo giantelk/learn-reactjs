@@ -1,14 +1,14 @@
 learn-reactjs
 =============
 
-#Resources to Learn ReactJS - build web &amp; mobile apps.
+### Resources to Learn ReactJS - build web &amp; mobile apps.
 
 ReactJS is for the front end of web/mobile apps. It can be used to render pages on it's own, or from within other frameworks such as MeteorJS or AngularJS. ReactJS code is JavaScript + HTML/JSX - (look at JSX as just a way to write HTML inside a JavaScript file).
 
 **ReactJS - Official Home Page:**
 http://facebook.github.io/react/
 
-###Code Examples
+### Code Examples
 **Official ReactJS Example page:**
 http://facebook.github.io/react/docs/examples.html
 
@@ -28,7 +28,7 @@ http://react.rocks/
 **Made with React - Showcase of apps using React or React Native:**
 http://madewithreact.com/
 
-###Blog Posts
+### Blog Posts
 **Why I chose ReactJS ?**
 http://giantelk.wordpress.com/2014/08/27/why-i-chose-reactjs/
 
@@ -49,7 +49,7 @@ http://blog.atom.io/2014/07/02/moving-atom-to-react.html
 http://fluentconf.com/fluent2014/public/schedule/detail/32395
 
 
-###Tutorials
+### Tutorials
 **React PhoneCat: Rewriting the AngularJS Tutorial App in React**
 Awesome overview of ReactJS with a great example app.
 http://jgebhardt.github.io/blog/react-phonecat/
